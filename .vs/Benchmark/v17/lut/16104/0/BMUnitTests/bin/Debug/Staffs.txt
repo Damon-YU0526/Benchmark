@@ -1,0 +1,13 @@
+﻿s00001,Tom,vipTom@163.com,2200
+s00002,Jack,vipJack@126.com,1800
+s00003,Lucy,vipLucy@google.com,3300
+s00004,Jack,hjyJack@facebook.com,4500
+s00005,Edison,vipEdison@163.com,2330
+s00006,Jhon,vipJhon@126.com,1999
+s00011,aTom,viptom@google.com,2335
+s00012,bLucy,vipLucy@google.com,1988
+s00013,cJack,vipJack@google.com,3100
+
+s00011,aTom,viptom@google.com,2335
+s00012,bLucy,vipLucy@google.com,1988
+s00013,cJack,vipJack@google.com,3100

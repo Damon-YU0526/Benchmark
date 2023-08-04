@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{680E4431-FF75-40C8-B531-835A5B02ABF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMUnitTests", "BMUnitTests\BMUnitTests.csproj", "{687F4C54-BFB6-46D9-AF0D-300A9903629E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{680E4431-FF75-40C8-B531-835A5B02ABF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680E4431-FF75-40C8-B531-835A5B02ABF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680E4431-FF75-40C8-B531-835A5B02ABF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680E4431-FF75-40C8-B531-835A5B02ABF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687F4C54-BFB6-46D9-AF0D-300A9903629E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687F4C54-BFB6-46D9-AF0D-300A9903629E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687F4C54-BFB6-46D9-AF0D-300A9903629E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687F4C54-BFB6-46D9-AF0D-300A9903629E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5863C083-A07F-4FB6-AFB7-7BCC3538AA9A}
+	EndGlobalSection
+EndGlobal

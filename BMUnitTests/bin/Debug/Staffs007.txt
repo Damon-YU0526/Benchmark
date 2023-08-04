@@ -1,0 +1,4 @@
+
+s00011,aTom,viptom@google.com,2335
+s00012,bLucy,vipLucy@google.com,1988
+s00013,cJack,vipJack@google.com,3100

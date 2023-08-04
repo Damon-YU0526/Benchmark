@@ -1,0 +1,36 @@
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\bin\Debug\Benchmark.exe.config
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\bin\Debug\Benchmark.exe
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\bin\Debug\Benchmark.pdb
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.AssemblyReference.cache
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.Properties.Resources.resources
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.GenerateResource.cache
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.CoreCompileInputs.cache
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.exe
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.pdb
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.Form1.resources
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\bin\Debug\Staffs.txt
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\bin\Debug\Benchmark.exe.config
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\bin\Debug\Benchmark.exe
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\bin\Debug\Benchmark.pdb
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.AssemblyReference.cache
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.SuggestedBindingRedirects.cache
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.Form1.resources
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.Properties.Resources.resources
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.GenerateResource.cache
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.CoreCompileInputs.cache
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.exe
+C:\Users\pjh\Desktop\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.pdb
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\bin\Debug\Staffs.txt
+E:\KeyPoints\Studying\未 2022-07-25 C# Test\答案\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.SuggestedBindingRedirects.cache
+E:\Coding test\Benchmark\Benchmark\bin\Debug\Staffs.txt
+E:\Coding test\Benchmark\Benchmark\bin\Debug\Benchmark.exe.config
+E:\Coding test\Benchmark\Benchmark\bin\Debug\Benchmark.exe
+E:\Coding test\Benchmark\Benchmark\bin\Debug\Benchmark.pdb
+E:\Coding test\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.AssemblyReference.cache
+E:\Coding test\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.SuggestedBindingRedirects.cache
+E:\Coding test\Benchmark\Benchmark\obj\Debug\Benchmark.Form1.resources
+E:\Coding test\Benchmark\Benchmark\obj\Debug\Benchmark.Properties.Resources.resources
+E:\Coding test\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.GenerateResource.cache
+E:\Coding test\Benchmark\Benchmark\obj\Debug\Benchmark.csproj.CoreCompileInputs.cache
+E:\Coding test\Benchmark\Benchmark\obj\Debug\Benchmark.exe
+E:\Coding test\Benchmark\Benchmark\obj\Debug\Benchmark.pdb
